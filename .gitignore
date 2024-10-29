@@ -1,0 +1,6 @@
+.DS_Store
+cst205env/
+__pycache__/
+hw2_images/
+hw3_images/
+lab*.py
